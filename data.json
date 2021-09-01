@@ -1,0 +1,14 @@
+[
+  {
+    "firstname":"amazon",
+    "link": "http://www.amazon.com/"
+  },
+  {
+    "firstname": "google",
+    "link":"http://www.google.com/"
+  },
+  {
+    "firstname":"Youtube",
+    "link":"http://www.youtube.com/"
+  }
+]
